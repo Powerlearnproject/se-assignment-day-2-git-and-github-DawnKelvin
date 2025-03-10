@@ -34,7 +34,10 @@ Disadvantages of private repos:
 1. Limited community engagement.
 2. reduced visibility making it harder for potential collaborators to discover the project.
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-
+A commit is a sanpshot of the project a any point in time. It includes changes made in the project files since last commit. Commits help in tracking changes as each commit has a unique identifier and includes metadata such as author, timestamp and a commit message explaining the changes.
+After making changes by either creating new files or modifying existing ones within the repository, the chagnges are staged before committing. This tells Git which chnages you want to include in the next commit. To stage, use the git add <file name>command. Once changes are staged, commit them using the git commitcommand witha descriptive message e.g., git commit -m "Initial commit".
+After committing, push the commit to the GitHub repository using git push command.
+Each commit creates a new version of your project allowing you to track changes over time and revert back to previous versions if a mistake occurs.
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
