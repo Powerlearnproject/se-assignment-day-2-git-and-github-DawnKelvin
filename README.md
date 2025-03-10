@@ -19,13 +19,13 @@ public repos are best suited for projects that aim t foster open collaboration a
 Public repos have access to a large community of contributors globally while private repos have limited community reacch fostering a focused environment for intternal team collaboration.
 Public repos require robsut process to amange contributions and ensure code quality while private repos offer greater control over code quality and security.
 Advantages of Public repos:
-  1. Offers project visibility on the internet and thus easily discovered by             potential   users and contributors.
-  2. Open source projects benefit from a large pool of contributors who can report       bugs and suggest imrpovements.
+  1. Offers project visibility on the internet and thus easily discovered by potential users and contributors.
+  2. Open source projects benefit from a large pool of contributors who can report bugs and suggest imrpovements.
   3.  They serve as valuable resource for learning.
   4.  Large pool of contributors leads to diverse perspectives and improvements.
 Disadvantages of public repos:
-  1. Unrestricted access often leads to challenge maintaining quality control.
-  2. There is risk of exposing proprietary code or sensitive information.
+1. Unrestricted access often leads to challenge maintaining quality control.
+2. There is risk of exposing proprietary code or sensitive information.
 Advantages of private repos:
   1. Security and privacy; protecting sensitive code, trade secrets and proprietary     information from public.
   2. controlled access to the repo, allowing access to trsuted individuals.
