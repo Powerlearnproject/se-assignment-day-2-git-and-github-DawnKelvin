@@ -19,20 +19,20 @@ public repos are best suited for projects that aim t foster open collaboration a
 Public repos have access to a large community of contributors globally while private repos have limited community reacch fostering a focused environment for intternal team collaboration.
 Public repos require robsut process to amange contributions and ensure code quality while private repos offer greater control over code quality and security.
 Advantages of Public repos:
-1.Offers project visibility on the internet and thus easily discovered by potential   users and contributors.
-2. Open source projects benefit from a large pool of contributors who can report       bugs and suggest imrpovements.
-3.They serve as valuable resource for learning.
-4. Large pool of contributors leads to diverse perspectives and improvements.
+  1. Offers project visibility on the internet and thus easily discovered by             potential   users and contributors.
+  2. Open source projects benefit from a large pool of contributors who can report       bugs and suggest imrpovements.
+  3.  They serve as valuable resource for learning.
+  4.  Large pool of contributors leads to diverse perspectives and improvements.
 Disadvantages of public repos:
-1. Unrestricted access often leads to challenge maintaining quality control.
-2. There is risk of exposing proprietary code or sensitive information.
+  1. Unrestricted access often leads to challenge maintaining quality control.
+  2. There is risk of exposing proprietary code or sensitive information.
 Advantages of private repos:
-1. Security and privacy; protecting sensitive code, trade secrets and proprietary information from public.
-2. controlled access to the repo, allowing access to trsuted individuals.
-3. Focused collaboration  for organizational and confidential projects
+  1. Security and privacy; protecting sensitive code, trade secrets and proprietary     information from public.
+  2. controlled access to the repo, allowing access to trsuted individuals.
+  3. Focused collaboration  for organizational and confidential projects
 Disadvantages of private repos:
-1. Limited community engagement.
-2. reduced visibility making it harder for potential collaborators to discover the project.
+  1. Limited community engagement.
+  2. reduced visibility making it harder for potential collaborators to discover         the project.
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 A commit is a sanpshot of the project a any point in time. It includes changes made in the project files since last commit. Commits help in tracking changes as each commit has a unique identifier and includes metadata such as author, timestamp and a commit message explaining the changes.
 After making changes by either creating new files or modifying existing ones within the repository, the chagnges are staged before committing. This tells Git which chnages you want to include in the next commit. To stage, use the git add <file name>command. Once changes are staged, commit them using the git commitcommand witha descriptive message e.g., git commit -m "Initial commit".
